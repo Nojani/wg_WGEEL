@@ -10,6 +10,7 @@
 
 
 ## Annex 4
+ 8 new values inserted in the database
 
 
 
