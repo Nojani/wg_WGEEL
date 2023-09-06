@@ -20,8 +20,12 @@
 
 ### dataseries
 
+ 2 new values inserted in the database
 
 ### group metrics
+
+ 2 and 2 new values inserted in the group and metric tables
+
 
 
 ### individual metrics
